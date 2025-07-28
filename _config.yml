@@ -6,3 +6,6 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://xxwlive.github.io/
+  another_url: another value
