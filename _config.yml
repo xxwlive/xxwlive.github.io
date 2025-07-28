@@ -7,5 +7,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://xxwlive.github.io/
+  xxwlive: https://xxwlive.github.io/
   another_url: another value
