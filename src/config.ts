@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "assets/images/demo-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/banner.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.svg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/me.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "夏祥伟",
 	bio: "华中科技大学电子信息在读硕士，研究无人机/机器人系统与大模型 Agent 工程化。",
 	links: [
